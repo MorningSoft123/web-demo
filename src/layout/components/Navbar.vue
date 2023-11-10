@@ -17,7 +17,7 @@
         <el-dropdown-menu slot="dropdown" class="user-dropdown">
           <a
             target="_blank"
-            href="https://github.com/MorningSoft123/web-demo.git"
+            href="https://github.com/MorningSoft123/web-demo"
           >
             <el-dropdown-item><i class="icon icon-github" />Github</el-dropdown-item>
           </a>
